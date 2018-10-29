@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\662de4031f18be7e8cd4b95cb9f5a50229bbf631\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_4f3ddadb9adb5a650aebe095079f293fa60e8cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\ba559042b27a3d28aaee62d5a16ff659a883452f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_a3d6d87e33dff5d8171082b93eaf828c65daff15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ead2987da83f114c3ad03aaa761c95bb16990a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\914eb85e929d9d0c4f1342f0902ee18ec846bc0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_afd4fc50cb500b0a3bdcd057483a6d7322769213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\bdcc321232d446df425e4a8cca4c48b39ad46544\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_33e3ad0c447363a5e835de39289bbcdf81287429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\c21ea95d01b53a7d551dd0468b4a6a75a5dac20f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_7de53b97e30ec96f20759809f9d132a77a2ef24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\92795d40e51e020a56435e349fd5e2506a83ea7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_49f2843e4f2874877f72336a56242d775c122e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\aa459d43fd61af39f527afc852254e50c7c7f93f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_44d269535e649c52fcf0068ad7d6324ace5c7df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\28f72f7175f0829fed292da51c0c0d0e9b41f21c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_4a2db95d8665bebae2bb55ea1ee9f576f2c9a82a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\c8115ac6a871834a77344f3a370176a6187070d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_e2fe1bd3ae9ad2862f8d9dbcf17aeea96003d3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6eccb3f40deac69122ba35d0d87c7e5f481f59e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanyam\.android\build-cache\c8ced21e964f06b3080dc38b7a5aa2423e1f5d7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Developing\AndroidStudioProjects\Calculator\app\build\intermediates\pre-dexed\debug\classes_b82bb27836bbd3cbd6addf2b52a450438b04daf0.jar" />
+    </item>
+
+</items>

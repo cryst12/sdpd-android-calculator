@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="replay">Replay last 5 results</string>
+</resources>
